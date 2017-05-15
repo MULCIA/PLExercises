@@ -8,9 +8,11 @@ Consists of building a small Prolog file that counts ocurrences of a number sort
 
 *Inputs:
 
-´[2, 5, 5, 5, 6, 6, 8, 9, 9, 9]´
+```prolog
+[2, 5, 5, 5, 6, 6, 8, 9, 9, 9]
 
-´target = 5´
+target = 5
+```
 
 *Output:
 
@@ -22,9 +24,11 @@ Consists of building a small Prolog file that search a given number in a nearly 
 
 *Inputs:
 
-´[2, 1, 3, 5, 4, 7, 6, 8, 9]´
+```prolog
+[2, 1, 3, 5, 4, 7, 6, 8, 9]
 
-´target = 5´
+target = 5
+```
 
 *Output:
 
