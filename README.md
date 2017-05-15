@@ -16,7 +16,7 @@ target = 5
 
 *Output:
 
-´Element 5 occurs 3 times.´
+`Element 5 occurs 3 times.`
 
 ## Exercise 2
 
@@ -32,7 +32,7 @@ target = 5
 
 *Output:
 
-´Element 5 founds at index 3.´
+`Element 5 founds at index 3.`
 
 
 
